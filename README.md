@@ -1,16 +1,7 @@
-# first_cotton
+# First Cotton
 
-A new Flutter project.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/78801889/233774623-56736fee-2543-4998-8eb9-05e8e6ce2945.png)
+![image](https://user-images.githubusercontent.com/78801889/233774631-ec541f69-4fee-4502-98b7-34a72ce4fa24.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Checkout the App Live @ PlayStore: </br> https://play.google.com/store/apps/details?id=com.firstcotton.k
